@@ -9,5 +9,10 @@
                     "url":  "https://github.com/cyril6364727-star/utochki/releases/download/v2026.11.17-2009/Utochki.apk",
                     "sha256":  "c3baebf1689fad164b40833beb6cd0e655d909c5692ba1970c21dcb9edc50bba",
                     "notes":  "Телефонная версия (сенсорное управление, обновления в игре); ПК-версия теперь собирается из проекта"
-                }
+                },
+    "exe_url":  "https://github.com/ShiroAIR/utochki/releases/download/launcher/Utochki.exe",
+    "exe_sha256":  "6b0f465933086bda5f92c570d688bd43da7569caf12789716688ff38cfbf2ed0",
+    "launcher_version":  3,
+    "launcher_url":  "https://github.com/ShiroAIR/utochki/releases/download/launcher/Utochki-Launcher.exe",
+    "launcher_sha256":  "e1290b060794390106fc5cee322d25661cd4dfcf3e0408f1e2763b024088e169"
 }
