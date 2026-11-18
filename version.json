@@ -12,7 +12,7 @@
                 },
     "exe_url":  "https://github.com/ShiroAIR/utochki/releases/download/launcher/Utochki.exe",
     "exe_sha256":  "6b0f465933086bda5f92c570d688bd43da7569caf12789716688ff38cfbf2ed0",
-    "launcher_version":  3,
+    "launcher_version":  4,
     "launcher_url":  "https://github.com/ShiroAIR/utochki/releases/download/launcher/Utochki-Launcher.exe",
-    "launcher_sha256":  "dc0c42ac8434b2312338d0d423de682872368242c360696670bc64d91933c09f"
+    "launcher_sha256":  "73842f6c3a0d9231efc66031fe5eae2cd9ede865db2638bb2942cecbe586fa20"
 }
